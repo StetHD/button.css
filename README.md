@@ -5,9 +5,7 @@
 <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
-<body><div class="container"><p><img src="http://kfan.io/button.css/img/Button.css.jpg" alt="Button.css" title=""></p>
-
-
+<body><div class="container">
 
 <h2 id="css3-and-html5-button-animations">CSS3 and HTML5 Button Animations</h2>
 
